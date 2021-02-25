@@ -47,7 +47,7 @@ This is a tutorial on utilizing airship on your web app.
 
 ## Step 7: Register a service worker in your index.html / index.php
 
-<img align="center" alt="redesign of thumbnails" width="800px" src="https://github.com/loreleim/airship/blob/main/images/7-step.png?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="800px" src="https://github.com/loreleim/airship/blob/main/images/8-step.png?raw=true" />
 
 
 ```
