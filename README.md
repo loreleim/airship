@@ -66,4 +66,4 @@ if ('serviceWorker' in navigator) {
 </script>
 ```
 
-This is sourced from the [Google Developer docs](https://developers.google.com/web/fundamentals/primers/service-workers)
+*This is sourced from the [Google Developer docs](https://developers.google.com/web/fundamentals/primers/service-workers). Make sure to change the .register('/sw.js') to .register('/push-worker.js')
