@@ -1,5 +1,5 @@
 # Configuring Airship
-This is a tutorial on utilizing airship on your web app.
+This is a tutorial on utilizing airship on your web app. This demo includes a non-sensitive SDK & API key for a default Airship demo. 
 
 <img align="center" alt="redesign of thumbnails" width="500px" src="https://vectorlogoseek.com/wp-content/uploads/2019/07/urban-airship-inc-vector-logo.png" />
 
