@@ -1,7 +1,7 @@
 # Configuring Airship
 This is a tutorial on utilizing airship on your web app.
 
-<img align="center" alt="redesign of thumbnails" width="500px" src="https://upload.wikimedia.org/wikipedia/en/8/8b/Airship_2019_logo.png" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://vectorlogoseek.com/wp-content/uploads/2019/07/urban-airship-inc-vector-logo.png" />
 
 ## Table of Contents
 1. [Development Setup](#development-setup)
